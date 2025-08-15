@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+body{
+    background-color:#F7F6FF;
+}
+.container{
+   width: 75%;
+   background-color:  #F7F6FF   ;
+   margin: 0 auto;
+}
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.vapsh{
+    width: auto;
+   
+}
+ul{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.headda{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.stbtn{
+    color: #1DBF73;
+    background-color: #F2F0FE;
+    border: none;
+    font-weight: 600;
+    margin-left: 100px;
+    width: 100px;
+    height: 30px;
+}
+.thbtn{
+    font-weight: 600;
+    color: #F6FAFD;
+    background-color: #1DBF73;
+    border-radius: 10000px;
+    border: none;
+    width: 90px;
+    height: 40px;
+}
+.frsp{
+    font-size: 36px;
+    width: 550px;
+    margin-top: 60px;
+}
+.klik{
+    color: #1DBF73;
+}
+.balkim{
+    font-size: 20px;
+    width: 500px;
+    margin-top: 20px;
+}
+.divma{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.brat{
+    width: 450px;
+    height: 450px;
+    margin-left: -105px;
+}
+.naytiin{
+    background-color: #F2F0FE;
+    border: none;
+    border-radius: 50000px;
+    width: 400px;
+    height: 40px;
+}
+.naytibtn{
+    width: 90px;
+    background-color: orange;
+    height: 40px;
+    color: #F6FAFD;
+    border-radius: 50000px;
+    border: none;
+    position: relative;
+    right: 90px;
+}
+.pt{
+    margin-top: 50px;
+}
+.hayotga{
+    margin-top: 40px;
+}
+.btndiv{
+    width: 450px;
+}
+.shi{
+    font-weight: 100px;
+    background-color: #F2F0FE;
+    border: 1px solid rgba(0, 0, 0, 0.136);
+    padding: 10px 20px;
+    border-radius: 15px;
+    transition: all .5s ease;
+}
+.btns_div{
+   display: grid;
+   align-items: center;
+   gap: 10px;
+   margin-top: 10px;
+}
+.btns_div div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.btns_div div button:hover{
+    border: 2px solid #1DBF73;
+    color: #1DBF73;
+}
+.strter{
+    margin-top: 150px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.otabolasi{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.bolaningbolasi{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.empty{
+    background-color: #F2F0FE;
+    color: #1DBF73;
+    border: 500px;
+}
+.empty{
+    width: 2000px;
+    height: 140px;
+}
+.hi{
+    margin: 0 auto;
+    align-items: center;
+    border: solid #1DBF73 2px;
+    background-color: white;
+    width: 250px;
+    height: 25px;
+    border-radius: 5000px;
+    color: #1DBF73;
+}
+.boshlovchi2{
+    margin-top: 60px;
+    font-weight: 600;
+    font-size: 25px;
+}
+.ih{
+   width: 150; 
+}
+.akadivv{
+    display: flex;
+    align-items: center;
+}
+.ukadiv{
+    display: flex;
+    align-items: center;
+}
+.ish{
+   background-color: white;
+   color: #1DBF73;
+   border: #1DBF73 solid;
+   height: 35px;
+   width: 250px;
+   border-radius: 500000000px;
+   margin-top: 20px;
+   margin-left: 50px;
+}
+.posmor{
+    color: #1DBF73;
+    
+}
